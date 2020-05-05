@@ -1,0 +1,7 @@
+venv
+credentials.json
+db.py
+service_account.json
+token.pickle
+.idea
+__pycache__/
